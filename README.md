@@ -9,3 +9,4 @@ This repo holds the official pytorch implementation of paper: ["AdaTAD: End-to-E
 
 ## Updates
 - Along with the release of AdaTAD, we will also release a TAD codebase consisting of more than 10 state-of-the-art TAD methods and supporting 5 TAD datasets. Stay tuned!
+- **[2024/02/28]** AdaTAD is accepted by **CVPR2024**.

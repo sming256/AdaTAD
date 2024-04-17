@@ -8,5 +8,6 @@
 This repo holds the official pytorch implementation of paper: ["AdaTAD: End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames"](https://arxiv.org/abs/2311.17241)
 
 ## Updates
+- **[2024/04/17]** AdaTAD is released at [OpenTAD](https://github.com/sming256/OpenTAD/tree/main/configs/adatad)! We achieve an average mAP of 42.90% on ActivityNet and 77.07% on THUMOS14. Please have a check!
 - **[2024/03/28]** We release an open-source temporal action detection toolbox at [OpenTAD](https://github.com/sming256/OpenTAD). :boom:
 - **[2024/02/28]** AdaTAD is accepted by **CVPR2024**.
